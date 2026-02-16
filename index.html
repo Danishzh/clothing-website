@@ -159,9 +159,50 @@
 
 
 
-    <!-- links -->
-    <iframe src="https://www.chatbase.co/chatbot-iframe/KssADbkPVxOjn_orvt3pV" width="100%"
-        style="height: 100%; min-height: 700px" frameborder="0"></iframe>
+
+    <!-- chatbox -->
+    <div id="chat-container" style="
+    position: fixed;
+    bottom: 20px;
+    right: 40px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    overflow: hidden;
+    cursor: pointer;
+    z-index: 1000;
+    background: #007bff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+">
+        💬
+    </div>
+
+    <!-- Hidden iframe (chat window) -->
+    <iframe id="chatbox-iframe" src="https://www.chatbase.co/chatbot-iframe/KssADbkPVxOjn_orvt3pV" style="
+        display: none;
+        position: fixed;
+        bottom: 90px;
+        right: 30px;
+        width: 350px;
+        height: 500px;
+        border: none;
+        z-index: 1001;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        border-radius: 10px;
+    "></iframe>
+
+    <script>
+        // Toggle the chat window when clicking the icon
+        const icon = document.getElementById('chat-container');
+        const chat = document.getElementById('chatbox-iframe');
+
+        icon.addEventListener('click', () => {
+            chat.style.display = chat.style.display === 'block' ? 'none' : 'block';
+        });
+    </script>
+
     <script src="/java.js"></script>
 </body>
 
