@@ -63,7 +63,7 @@ function showTab(name, el) {
 
   document.getElementById(name).classList.add("active");
 }
-// chatbot
+// chatbot working
 
 <iframe
   src="https://www.chatbase.co/chatbot-iframe/KssADbkPVxOjn_orvt3pV"
