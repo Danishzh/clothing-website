@@ -63,3 +63,11 @@ function showTab(name, el) {
 
   document.getElementById(name).classList.add("active");
 }
+// chatbot
+
+<iframe
+  src="https://www.chatbase.co/chatbot-iframe/KssADbkPVxOjn_orvt3pV"
+  width="100%"
+  style="height: 100%; min-height: 700px"
+  frameborder="0"
+></iframe>;
