@@ -565,3 +565,44 @@ body {
   padding: 4px 8px;
   border-radius: 4px;
 }
+
+/* media quries */
+
+/* TABLET */
+@media (max-width: 1024px) {
+  .categories {
+    padding: 30px 30px;
+  }
+
+  .sort-bar {
+    padding: 20px 30px;
+  }
+
+  .product-grid {
+    padding: 20px 30px 60px;
+  }
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  header {
+    padding: 10px 20px;
+  }
+
+  .nav-right {
+    gap: 15px;
+    font-size: 13px;
+  }
+
+  .categories {
+    gap: 20px;
+  }
+
+  .product img {
+    height: 300px;
+  }
+
+  .description {
+    padding: 40px 20px;
+  }
+}
