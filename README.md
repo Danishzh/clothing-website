@@ -1,37 +1,37 @@
-About This Website
-This website is a fashion platform designed to showcase a wide variety of apparel collections for men, women, and kids. Built with a focus on clean design and user-friendly navigation, it highlights different categories of clothing through bold visuals and stylish layouts.
+# Vellario — Clothing E-Commerce Website
 
-Men’s Collection
-Polo Shirts – casual yet refined everyday wear.
+🔗 **Live site:** https://vellario.netlify.app
 
-Jogger Pants – comfortable and versatile streetwear.
+## About
+This website is a fashion platform designed to showcase apparel collections for men, women, and kids. Built with a focus on clean design and user-friendly navigation, it highlights different categories of clothing through bold visuals and stylish layouts.
 
-Denim – timeless jeans for all occasions.
+## Built With
+- HTML5
+- CSS3 (Flexbox)
+- Basic JavaScript
 
-Oversized Graphic Tees – trendy and expressive fashion pieces.
+## Collections
 
-Formal Shirts Collection – polished looks for professional settings.
+**Men's**
+- Polo Shirts – casual yet refined everyday wear
+- Jogger Pants – comfortable and versatile streetwear
+- Denim – timeless jeans for all occasions
+- Oversized Graphic Tees – trendy and expressive fashion pieces
+- Formal Shirts Collection – polished looks for professional settings
+- Eastern Stitched Collection – traditional attire celebrating cultural heritage
+- Basic Tees Collection – simple essentials for everyday style
 
-Eastern Stitched Collection – traditional attire celebrating cultural heritage.
+**Women's**
+- Casual Wear – chic tops, dresses, and everyday essentials
+- Formal Wear – elegant outfits for professional and special occasions
+- Ethnic Wear – stitched collections inspired by cultural traditions
+- Trendy Styles – modern cuts, oversized fits, and fashion-forward designs
 
-Basic Tees Collection – simple essentials for everyday style.
+**Kids'**
+- Casual Basics – comfortable tees, joggers, and everyday outfits
+- Denim & Playwear – durable styles for active kids
+- Festive Wear – traditional stitched outfits for cultural events
+- Graphic Tees – fun, expressive designs for young personalities
 
-Women’s Collection
-Casual Wear – chic tops, dresses, and everyday essentials.
-
-Formal Wear – elegant outfits for professional and special occasions.
-
-Ethnic Wear – stitched collections inspired by cultural traditions.
-
-Trendy Styles – modern cuts, oversized fits, and fashion-forward designs.
-
-Kids’ Collection
-Casual Basics – comfortable tees, joggers, and everyday outfits.
-
-Denim & Playwear – durable styles for active kids.
-
-Festive Wear – traditional stitched outfits for cultural events.
-
-Graphic Tees – fun, expressive designs for young personalities.
-
-Each section is crafted to reflect the brand’s identity while offering visitors an engaging browsing experience. This project demonstrates my ability to combine coding skills with creative design, turning a fashion concept into a fully functional digital showcase.
+## Notes
+This was my first full website project, built while learning frontend development. Each section reflects a focus on layout and design, combining coding skills with a creative fashion concept. I worked through real challenges with Flexbox and Grid, and I'm still improving my CSS skills through projects like this.
